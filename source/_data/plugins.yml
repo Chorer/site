@@ -2230,3 +2230,18 @@
     - tag
     - details
     - summary
+- name: hexo-migrator-web
+  description: Hexo Migrator plugin for common Web pages
+  link: https://github.com/TechQuery/hexo-migrator-web
+  tags:
+    - migrator
+    - web
+    - common
+    - headless
+    - browser
+- name: hexo-tag-qrcode
+  description: A Hexo plugin that generates a qrcode image and inserts it into a post.
+  link: https://github.com/jsweibo/hexo-tag-qrcode
+  tags:
+    - tag
+    - qrcode

@@ -1,3 +1,4 @@
+---
 title: Documentation
 ---
 Welcome to the Hexo documentation. If you encounter any problems when using Hexo, have a look at the  [troubleshooting guide](troubleshooting.html), raise an issue on [GitHub](https://github.com/hexojs/hexo/issues) or start a topic on the [Google Group](https://groups.google.com/group/hexo).
@@ -16,7 +17,7 @@ It only takes a few minutes to set up Hexo. If you encounter a problem and can't
 
 Installing Hexo is quite easy. However, you do need to have a couple of other things installed first:
 
-- [Node.js](http://nodejs.org/)
+- [Node.js](http://nodejs.org/) (Should be at least nodejs 6.9)
 - [Git](http://git-scm.com/)
 
 If your computer already has these, congratulations! Just install Hexo with npm:

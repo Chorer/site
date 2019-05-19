@@ -1,3 +1,4 @@
+---
 title: Документация
 ---
 Добро пожаловать в документацию Hexo. Если возникнут проблемы при использовании Hexo, попробуйте поискать в [руководстве по решению проблем](troubleshooting.html), поднять вопрос на [GitHub](https://github.com/hexojs/hexo/issues) или завести тему в группе [Google Group](https://groups.google.com/group/hexo).
@@ -14,7 +15,7 @@ Hexo-это быстрый, простой и мощный фреймворк б
 
 Установка Hexo довольно проста. Однако, сперва, нужно установить пару вещей:
 
-- [Node.js](http://nodejs.org/)
+- [Node.js](http://nodejs.org/) (Should be at least nodejs 6.9)
 - [Git](http://git-scm.com/)
 
 Если всё это уже есть, поздравляю! Просто установите Hexo с помощью npm:

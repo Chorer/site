@@ -1,3 +1,49 @@
+- name: default
+  description: An elegant Material Design theme for Hexo, based on MDUI.
+  link: https://github.com/niemingzhao/niemingzhao.github.io/tree/theme
+  preview: http://www.niemingzhao.top/
+  tags:
+    - Material Design
+    - elegant
+    - responsive
+    - simple
+    - clean
+
+- name: Mango
+  description: Simple & Light Theme
+  link: https://github.com/mango-tree/hexo-theme-mango
+  preview: https://mango-tree.github.io/
+  tags:
+    - responsive
+    - simple
+    - light
+    - clean
+
+- name: Sakura
+  description: A beautiful theme
+  link: https://github.com/honjun/hexo-theme-sakura
+  preview: https://sakura.hojun.cn/
+  tags:
+    - 中文
+    - beautiful
+    - responsive
+    - pjax
+    - music Aplayer
+    - video
+
+- name: Griddy
+  description: Hexo theme for artist & photographer showing their work
+  link: https://github.com/sira313/hexo-theme-griddy
+  preview: https://aflasio.netlify.com
+  tags:
+    - simple
+    - visual
+    - three_column
+    - clean
+    - portfolio
+    - responsive
+    - bulma
+
 - name: mintin
   description: A simple theme
   link: https://github.com/kevinjobs/hexo-theme-mintin
@@ -19,15 +65,13 @@
     - clean
 
 - name: Material-T
-  description: Born to be elegant
-  link: https://github.com/invom/Material-T
-  preview: https://invom.cc
+  description: Born to be elegant.
+  link: https://github.com/0x2E/Material-T
+  preview: https://0x2e.github.io/
   tags:
     - Material Design
     - responsive
-    - fresh
     - elegant
-    - chinese
     - 中文
 
 - name: Life
@@ -940,7 +984,7 @@
 - name: Raytaylorism
   description: A Material Design theme of with powerful features
   link: https://github.com/raytaylorlin/hexo-theme-raytaylorism
-  preview: http://raytaylorlin.com/
+  preview: https://raytaylorlin.github.io/
   tags:
     - material
     - responsive
@@ -2574,3 +2618,23 @@
     - clean
     - pure
     - ejs    
+- name: flex-block
+  description: A simple block blog style based on a flex layout
+  link: https://github.com/miiiku/flex-block
+  preview: https://miiiku.xyz
+  tags:
+    - simple
+    - block
+    - image
+    - responsive
+- name: A-ACE
+  description: A Comprehensive Elegant Theme
+  link: https://github.com/kinggozhang/hexo-theme-ace
+  preview: http://www.sumoon.com/
+  tags:
+    - Particle/Ribbon
+    - Sidebar
+    - Responsive
+    - Customizable
+    - Sticky
+    - Slideshow

@@ -1,3 +1,4 @@
+---
 title: Setup
 ---
 Hexo를 설치했다면, 타겟 `<folder>`의 Hexo를 초기화하기 위해 아래의 명령을 수행하세요.
@@ -27,7 +28,7 @@ $ npm install
 
 ### package.json
 
-어플리케이션 데이터 파일입니다. [EJS](https://www.ejs.co/), [Stylus](http://learnboost.github.io/stylus/), [Markdown](http://daringfireball.net/projects/markdown/) 렌더러들이 기본으로 설치됩니다. 원한다면, 나중에 당신이 제거할 수도 있습니다.
+어플리케이션 데이터 파일입니다. [EJS](https://ejs.co/), [Stylus](http://learnboost.github.io/stylus/), [Markdown](http://daringfireball.net/projects/markdown/) 렌더러들이 기본으로 설치됩니다. 원한다면, 나중에 당신이 제거할 수도 있습니다.
 
 ``` json package.json
 {

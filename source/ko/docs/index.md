@@ -1,3 +1,4 @@
+---
 title: Documentation
 ---
 Hexo 문서에 오신 것을 환영합니다. Hexo 사용 중 문제가 발생한다면 [troubleshooting guide](troubleshooting.html)를 살펴보세요. 이슈가 발생했다면 [GitHub](https://github.com/hexojs/hexo/issues) 또는 [Google Group](https://groups.google.com/group/hexo) 에 내용을 등록해 주세요.
@@ -14,7 +15,7 @@ Hexo는 눈 깜박할 새에 설치할 수 있습니다. 설치 시 문제가 �
 
 Hexo의 설치는 꽤 쉽습니다. 하지만, 설치 전에 몇 가지 요구사항이 있습니다.
 
-- [Node.js](http://nodejs.org/)
+- [Node.js](http://nodejs.org/) (Should be at least nodejs 6.9)
 - [Git](http://git-scm.com/)
 
 컴퓨터에 이미 이런 것들이 설치되어 있다면, 축하드립니다! 이제 npm을 이용하여 Hexo를 설치하기만 하면 됩니다.
